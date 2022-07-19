@@ -1,0 +1,10 @@
+## Directories
+node_modules/
+dist/
+
+## Files
+.npmrc
+
+## Output
+coverage/
+junit.xml
